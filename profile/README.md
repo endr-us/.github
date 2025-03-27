@@ -1,7 +1,11 @@
 # ENDR | Computer Vision for Edge AI
 
 <div align="center">
-    <img src="Endr - Logos/Background(W).png" alt="Endr Logo" width="200">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./Endr - Logos/Background(B).png">
+        <source media="(prefers-color-scheme: light)" srcset="./Endr - Logos/Background(W).png">
+        <img alt="Endr Logo" src="./Endr - Logos/Background(W).png" width="200">
+    </picture>
 </div>
 
 ## Redefining Precision in Critical Decision Systems
