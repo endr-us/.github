@@ -11,7 +11,7 @@
             media="(prefers-color-scheme: light)"
         />
         <img 
-            src="./Endr - Logos/Background(W).png#gh-light-mode-only"
+            src="./Endr - Logos/Background(B).png#gh-light-mode-only"
             alt="Endr Logo"
             width="200"
         />
