@@ -2,9 +2,19 @@
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./Endr - Logos/Background(B).png">
-        <source media="(prefers-color-scheme: light)" srcset="./Endr - Logos/Background(W).png">
-        <img alt="Endr Logo" src="./Endr - Logos/Background(W).png" width="200">
+        <source 
+            srcset="./Endr - Logos/Background(B).png#gh-dark-mode-only"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="./Endr - Logos/Background(W).png#gh-light-mode-only"
+            media="(prefers-color-scheme: light)"
+        />
+        <img 
+            src="./Endr - Logos/Background(W).png#gh-light-mode-only"
+            alt="Endr Logo"
+            width="200"
+        />
     </picture>
 </div>
 
