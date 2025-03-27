@@ -1,6 +1,6 @@
 # ENDR | Computer Vision for Edge AI
 
-<div align="center">
+<!-- <div align="center">
     <picture>
         <source 
             srcset="./Endr - Logos/Background(B).png#gh-dark-mode-only"
@@ -16,7 +16,7 @@
             width="200"
         />
     </picture>
-</div>
+</div> -->
 
 ## Redefining Precision in Critical Decision Systems
 
