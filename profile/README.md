@@ -1,7 +1,7 @@
-<h1 align="center">ENDR</h1>
+<h1 align="center">「 ENDR 」</h1>
 
 ## Table of Contents
-[Redefining Precision in Critical Decision Systems](#redefining-precision-in-critical-decision-systems) | [Breakthrough Technology](#breakthrough-technology) | [Next-Gen Edge AI Architecture](#next-gen-edge-ai-architecture) | [Research Frontiers](#research-frontiers) | [Perfect Perception Systems](#perfect-perception-systems) | [Get in Touch](#get-in-touch)
+[[Redefining Precision in Critical Decision Systems](#redefining-precision-in-critical-decision-systems)]  [[Breakthrough Technology](#breakthrough-technology)]  [[Next-Gen Edge AI Architecture](#next-gen-edge-ai-architecture)]  [[Research Frontiers](#research-frontiers)]  [[Perfect Perception Systems](#perfect-perception-systems)]  [[Get in Touch](#get-in-touch)]
 <!-- <div align="center">
     <picture>
         <source 
@@ -45,11 +45,11 @@ graph TD
 
 Our cutting-edge solutions process data directly on the edge, delivering:
 
-- **Ultra-fast response times**
-- **Uncompromised data privacy and security**
-- **Seamless operation in offline environments**
-- **Minimal bandwidth usage**
-- **Energy-efficient performance**
+- Ultra-fast response times
+- Uncompromised data privacy and security
+- Seamless operation in offline environments
+- Minimal bandwidth usage
+- Energy-efficient performance
 
 ## Research Frontiers
 
