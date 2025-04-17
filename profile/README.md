@@ -1,5 +1,7 @@
-# ENDR | Computer Vision for Edge AI
+<h1 align="center">ENDR</h1>
 
+## Table of Contents
+[Redefining Precision in Critical Decision Systems](#redefining-precision-in-critical-decision-systems) | [Breakthrough Technology](#breakthrough-technology) | [Next-Gen Edge AI Architecture](#next-gen-edge-ai-architecture) | [Research Frontiers](#research-frontiers) | [Perfect Perception Systems](#perfect-perception-systems) | [Get in Touch](#get-in-touch)
 <!-- <div align="center">
     <picture>
         <source 
@@ -20,7 +22,7 @@
 
 ## Redefining Precision in Critical Decision Systems
 
-Endr is at the forefront of innovation, revolutionizing Edge AI and computer vision technologies for defense and security. Our mission is to eradicate Type I errors (false positives) in threat detection systems, empowering military, law enforcement, and security professionals to make life-critical decisions with unmatched precision and confidence.
+**Endr** is a pioneering research company developing advanced **Edge AI** and **computer vision** technologies for defense applications. We focus on eliminating **Type 1 errors** (false positives) in **threat detection** systems—a critical advancement that allows **military, law enforcement, and security personnel** to make split-second decisions confidently. Our Edge AI solutions offer faster response times, enhanced privacy, and reliable operation even in disconnected environments by processing data directly on-device rather than in the cloud. Our mission bridges military-grade protection with commercial and educational applications, creating a safer world through perfect perception technology.
 
 ## Breakthrough Technology
 
@@ -70,7 +72,7 @@ Seattle, WA
 ezekiel@endr.us
 https://endr.us
 ```
-
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) [![Contribute](https://img.shields.io/badge/Contribute-Click%20Here-blue)](https://github.com/endr-us)
 ---
 
 © 2025 Endr, LLC | Pioneering the future of perception technology
