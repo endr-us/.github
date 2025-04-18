@@ -1,5 +1,3 @@
-<h1 align="center">「 ENDR 」</h1>
-
 ## Table of Contents
 [[Redefining Precision in Critical Decision Systems](#redefining-precision-in-critical-decision-systems)]  [[Breakthrough Technology](#breakthrough-technology)]  [[Next-Gen Edge AI Architecture](#next-gen-edge-ai-architecture)]  [[Research Frontiers](#research-frontiers)]  [[Perfect Perception Systems](#perfect-perception-systems)]  [[Get in Touch](#get-in-touch)]
 <!-- <div align="center">
